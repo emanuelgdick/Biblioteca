@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2924DB34-875C-444B-BB4D-53187ADC6626}|FrontEnd\\FrontEnd.csproj|c:\\biblioteca\\frontend\\controllers\\sociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2924DB34-875C-444B-BB4D-53187ADC6626}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\controllers\\sociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2924DB34-875C-444B-BB4D-53187ADC6626}|FrontEnd\\FrontEnd.csproj|c:\\biblioteca\\frontend\\views\\socio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2924DB34-875C-444B-BB4D-53187ADC6626}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\socio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2924DB34-875C-444B-BB4D-53187ADC6626}|FrontEnd\\FrontEnd.csproj|c:\\biblioteca\\frontend\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2924DB34-875C-444B-BB4D-53187ADC6626}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA678DB3-D24E-462A-8611-852C08884C77}|Api\\Api.csproj|c:\\biblioteca\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA678DB3-D24E-462A-8611-852C08884C77}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA678DB3-D24E-462A-8611-852C08884C77}|Api\\Api.csproj|c:\\biblioteca\\api\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA678DB3-D24E-462A-8611-852C08884C77}|Api\\Api.csproj|solutionrelative:api\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2924DB34-875C-444B-BB4D-53187ADC6626}|FrontEnd\\FrontEnd.csproj|c:\\biblioteca\\frontend\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2924DB34-875C-444B-BB4D-53187ADC6626}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA678DB3-D24E-462A-8611-852C08884C77}|Api\\Api.csproj|c:\\biblioteca\\api\\controllers\\sociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA678DB3-D24E-462A-8611-852C08884C77}|Api\\Api.csproj|solutionrelative:api\\controllers\\sociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2924DB34-875C-444B-BB4D-53187ADC6626}|FrontEnd\\FrontEnd.csproj|c:\\biblioteca\\frontend\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2924DB34-875C-444B-BB4D-53187ADC6626}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA678DB3-D24E-462A-8611-852C08884C77}|Api\\Api.csproj|c:\\biblioteca\\api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA678DB3-D24E-462A-8611-852C08884C77}|Api\\Api.csproj|solutionrelative:api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA678DB3-D24E-462A-8611-852C08884C77}|Api\\Api.csproj|c:\\biblioteca\\api\\migrations\\bibliotecacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA678DB3-D24E-462A-8611-852C08884C77}|Api\\Api.csproj|solutionrelative:api\\migrations\\bibliotecacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2924DB34-875C-444B-BB4D-53187ADC6626}|FrontEnd\\FrontEnd.csproj|c:\\biblioteca\\frontend\\controllers\\authusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924DB34-875C-444B-BB4D-53187ADC6626}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\controllers\\authusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,22 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Socio.cs",
-              "DocumentMoniker": "C:\\Biblioteca\\FrontEnd\\Models\\Socio.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\Models\\Socio.cs",
-              "ToolTip": "C:\\Biblioteca\\FrontEnd\\Models\\Socio.cs",
-              "RelativeToolTip": "FrontEnd\\Models\\Socio.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T14:22:31.116Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -72,94 +42,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Biblioteca\\Api\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Biblioteca\\Api\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Api\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwBgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T14:38:43.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\Biblioteca\\FrontEnd\\Services\\ApiService.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\Services\\ApiService.cs",
-              "ToolTip": "C:\\Biblioteca\\FrontEnd\\Services\\ApiService.cs",
-              "RelativeToolTip": "FrontEnd\\Services\\ApiService.cs",
-              "ViewState": "AgIAAL4EAAAAAAAAAAAuwM4EAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T13:53:49.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Socio.cs",
-              "DocumentMoniker": "C:\\Biblioteca\\Api\\Models\\Socio.cs",
-              "RelativeDocumentMoniker": "Api\\Models\\Socio.cs",
-              "ToolTip": "C:\\Biblioteca\\Api\\Models\\Socio.cs",
-              "RelativeToolTip": "Api\\Models\\Socio.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T13:39:03.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SocioController.cs",
-              "DocumentMoniker": "C:\\Biblioteca\\Api\\Controllers\\SocioController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\SocioController.cs",
-              "ToolTip": "C:\\Biblioteca\\Api\\Controllers\\SocioController.cs",
-              "RelativeToolTip": "Api\\Controllers\\SocioController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAwFYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T13:37:39.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Biblioteca\\FrontEnd\\Views\\Socio\\Index.cshtml",
               "RelativeDocumentMoniker": "FrontEnd\\Views\\Socio\\Index.cshtml",
               "ToolTip": "C:\\Biblioteca\\FrontEnd\\Views\\Socio\\Index.cshtml",
               "RelativeToolTip": "FrontEnd\\Views\\Socio\\Index.cshtml",
-              "ViewState": "AgIAABkFAAAAAAAAAAAAACwFAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAEEEAAAAAAAAAAAAAFsEAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-30T21:12:08.539Z",
+              "WhenOpened": "2025-06-08T13:53:28.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SocioController.cs",
-              "DocumentMoniker": "C:\\Biblioteca\\FrontEnd\\Controllers\\SocioController.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\Controllers\\SocioController.cs",
-              "ToolTip": "C:\\Biblioteca\\FrontEnd\\Controllers\\SocioController.cs",
-              "RelativeToolTip": "FrontEnd\\Controllers\\SocioController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAuwD0AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Biblioteca\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Biblioteca\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:08:54.939Z",
+              "WhenOpened": "2025-06-07T10:24:23.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BibliotecaContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Biblioteca\\Api\\Migrations\\BibliotecaContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Api\\Migrations\\BibliotecaContextModelSnapshot.cs",
-              "ToolTip": "C:\\Biblioteca\\Api\\Migrations\\BibliotecaContextModelSnapshot.cs",
-              "RelativeToolTip": "Api\\Migrations\\BibliotecaContextModelSnapshot.cs",
-              "ViewState": "AgIAACwEAAAAAAAAAAAYwD8EAAAtAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Biblioteca\\FrontEnd\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FrontEnd\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Biblioteca\\FrontEnd\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FrontEnd\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T10:04:53.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthuserController.cs",
+              "DocumentMoniker": "C:\\Biblioteca\\FrontEnd\\Controllers\\AuthuserController.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\Controllers\\AuthuserController.cs",
+              "ToolTip": "C:\\Biblioteca\\FrontEnd\\Controllers\\AuthuserController.cs",
+              "RelativeToolTip": "FrontEnd\\Controllers\\AuthuserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T14:57:23.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T09:49:56.086Z"
             }
           ]
         }

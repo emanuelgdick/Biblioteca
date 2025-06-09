@@ -802,11 +802,12 @@
                    $("#txtdni").val('');
                    $("#cbotipodoc").val(0);
                    let fnac = new Date()
+                   
                    let diafnac = `${(fnac.getDate())}`.padStart(2,'0');
                    let mesfnac = `${(fnac.getMonth()+1)}`.padStart(2,'0');
                    let aniofnac = fnac.getFullYear();
                    $("#dtfechanac").val(`${diafnac}/${mesfnac}/${aniofnac}`);
-
+                   
 
                    let fing = new Date()
                    let diafing = `${(fing.getDate())}`.padStart(2,'0');
@@ -1279,11 +1280,23 @@
                if (!$("#formNivel").valid()) {
                    return;
                }
+               debugger;
 
-             
-           
+                        console.log($("#dtfechanac").val());
+                      var yyyy = $("#dtfechanac").val().substring(6, 10);
+                      var MM = $("#dtfechanac").val().substring(3, 5);
+                      var DD = $("#dtfechanac").val().substring(0, 2);
+                      var HH = $("#dtfechanac").val().substring(10, 12).trim();
+                      var mm = $("#dtfechanac").val().substring(13, 15).trim();
+                      var A = $("#dtfechanac").val().substring(19, 23).trim();
+                      if (HH.length == 1)
+                          { HH = '0' + HH;}
 
-               var Socio = {
+                      if (mm.length == 1)
+                          { mm = '0' + mm;}
+                    
+
+                     var Socio = {
                        id: $("#txtid").val(),
                        apeyNom: $("#txtapeynom").val(),
                        documento:$("#txtdni").val(),
@@ -1322,7 +1335,7 @@
 
                         // sexo:$("#swSexo").val(),
                        // foto:""
-                        //fNac: $("#dtfechanac").val(),
+                        fNac:moment(yyyy + "-" + MM + "-" + DD + " " + HH + ":" + mm).format('YYYY-MM-DD HH:mm'),
                         // fIngreso: $("#dtfechaingreso").val(),
                         // fEgreso: $("#dtfechaegreso").val(),
 

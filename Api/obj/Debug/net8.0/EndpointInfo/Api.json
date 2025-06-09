@@ -7470,6 +7470,27 @@
             "type": "integer",
             "format": "int32"
           },
+          "tipoSocio": {
+            "$ref": "#/components/schemas/TipoSocio"
+          },
+          "estadoSocio": {
+            "$ref": "#/components/schemas/EstadoSocio"
+          },
+          "categoriaSocio": {
+            "$ref": "#/components/schemas/CategoriaSocio"
+          },
+          "tipoDocumento": {
+            "$ref": "#/components/schemas/TipoDocumento"
+          },
+          "calle": {
+            "$ref": "#/components/schemas/Calle"
+          },
+          "profesion": {
+            "$ref": "#/components/schemas/Profesion"
+          },
+          "localidad": {
+            "$ref": "#/components/schemas/Localidad"
+          },
           "nroSocio": {
             "type": "integer",
             "format": "int32"
@@ -7522,6 +7543,20 @@
             "nullable": true
           },
           "documento": {
+            "type": "string",
+            "nullable": true
+          },
+          "vitalicio": {
+            "type": "boolean"
+          },
+          "pagaAca": {
+            "type": "boolean"
+          },
+          "sexo": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "foto": {
             "type": "string",
             "nullable": true
           }
